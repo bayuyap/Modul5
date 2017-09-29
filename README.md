@@ -16,4 +16,4 @@
 ![alt text](1.PNG)
 
 # Kuis 1
-![alt text](2.PNG)
+![alt text](REAL2.PNG)
